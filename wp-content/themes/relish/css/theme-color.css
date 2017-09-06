@@ -1,0 +1,536 @@
+.main-nav-container .menu-item:hover,
+.main-nav-container .menu-item.current-menu-item,
+.main-nav-container .menu-item.current-menu-ancestor,
+.news .more-link,
+.pagination .page_links > span:not([class]),
+.cws_button,
+input[type='submit'],
+.cws_button.alt,
+input[type='submit'].alt,
+.cws-widget .tagcloud a,
+.ce_toggle.alt .accordion_title,
+.pricing_table_column:hover .cols_wrapper .widget_wrapper,
+.pricing_table_column.active_table_column .cols_wrapper .widget_wrapper,
+.cws_milestone,
+.cws_fa:hover,
+.cws_fa.alt,
+a.icon_link:hover .cws_fa.alt,
+a.icon_link:hover .cws_fa:hover, 
+.page_title .title:before,
+.cws_ourteam.single .social_links,
+.cws_ourteam.single .social_links a:not(:first-child),
+.cws_tweet,
+.ce_tabs .tab.active,
+.ce_accordion.third_style .accordion_section.active .accordion_title, 
+.ce_toggle.third_style .accordion_section.active .accordion_title,
+.relish-new-layout .cws_portfolio_fw .links a:hover,
+.carousel_nav_panel .prev:hover,
+.carousel_nav_panel .next:hover,
+.cws_fa_wrapper:hover .cws_fa.alt,
+.cws_fa.simple_icon.alt,
+a.icon_link:hover .cws_fa_wrapper .cws_fa.alt,
+.ce_title.und-title.themecolor .title-separators span,
+.ce_tabs.vertical .tab.active,
+.ce_accordion.second_style .accordion_section.active .accordion_title,
+.ce_toggle.second_style .accordion_section.active .accordion_title,
+.ce_accordion.third_style .active .accordion_content, 
+.ce_toggle.third_style .active .accordion_content,
+.cws_portfolio_filter.fw_filter a:before,
+.cws_portfolio .links a:hover,
+.woocommerce .button, .cws-widget .button, 
+.woocommerce .added_to_cart, 
+.woocommerce-page .button, 
+.woocommerce-page .added_to_cart,
+.woocommerce .woocommerce-tabs .tabs li.active,
+.woocommerce-tabs .comment_container img,
+.woo_mini_cart .button,
+.price_slider .ui-slider-handle{
+	border-color: #037cff#;
+}
+.main-nav-container .menu-item.current-menu-ancestor,
+.main-nav-container .sub-menu .menu-item.current-menu-ancestor,
+.site_header.with_background .main-nav-container .menu-item:hover,
+.site_header.with_background .main-nav-container .menu-item.current-menu-ancestor,
+.site_header.with_background .main-nav-container .menu-item.current-menu-item,
+.site_header.with_background .main-nav-container .sub-menu .menu-item:hover,
+.site_header.with_background .main-nav-container .sub-menu .menu-item.current-menu-ancestor,
+.site_header.with_background .main-nav-container .sub-menu .menu-item.current-menu-item,
+.mobile_nav .main-nav-container > .main-menu > .menu-item:hover,
+.mobile_nav .main-nav-container > .main-menu > .menu-item.current-menu-ancestor,
+.mobile_nav .main-nav-container > .main-menu > .menu-item.current-menu-item,
+.mobile_nav .sub-menu .menu-item:hover,
+.mobile_nav .sub-menu .menu-item.current-menu-ancestor,
+.mobile_nav .sub-menu .menu-item.current-menu-item,
+.header_nav_part.mobile_nav .main-nav-container .sub-menu .menu-item.back,
+.news .post_info_box .date,
+.pic .hover-effect,
+.news .more-link:hover,
+.pagination .page_links > span:not([class]),
+.cws_button,
+input[type='submit'],
+.cws_button.alt:hover,
+input[type='submit'].alt:hover,
+.cws-widget #wp-calendar tbody td#today:before,
+.cws-widget .tagcloud a:hover,
+.ce_accordion .accordion_title .accordion_icon:not(.custom):before,
+.ce_accordion .accordion_title .accordion_icon:not(.custom):after,
+.ce_accordion.third_style .accordion_title .accordion_icon:not(.custom):before, 
+.ce_accordion.third_style .accordion_title .accordion_icon:not(.custom):after, 
+.ce_toggle.third_style .accordion_title .accordion_icon:not(.custom):before, 
+.ce_toggle.third_style .accordion_title .accordion_icon:not(.custom):after,
+.ce_accordion.second_style .accordion_title .accordion_icon:not(.custom):before, 
+.ce_accordion.second_style .accordion_title .accordion_icon:not(.custom):after, 
+.ce_toggle.second_style .accordion_title .accordion_icon:not(.custom):before, 
+.ce_toggle.second_style .accordion_title .accordion_icon:not(.custom):after,
+.ce_accordion .accordion_section.active  .accordion_title .accordion_icon:not(.custom):before, 
+.ce_accordion .accordion_section.active  .accordion_title .accordion_icon:not(.custom):after, 
+.ce_toggle .accordion_section.active  .accordion_title .accordion_icon:not(.custom):before, 
+.ce_toggle .accordion_section.active  .accordion_title .accordion_icon:not(.custom):after,
+.comments-area .comment_list .comment-reply-link,
+.cws_milestone.alt,
+.cws_progress_bar .progress,
+a.icon_link:hover .cws_fa.alt,
+.dropcap,
+.tp-caption.relish-main-slider-layer a:before,
+#site_top_panel .cws_social_links .cws_social_link:hover,
+#site_top_panel #top_social_links_wrapper .cws_social_links.expanded .cws_social_link:hover,
+.copyrights_area .cws_social_links .cws_social_link:hover,
+.cws_ourteam.single .social_links a:hover,
+.banner_404:before,
+.cws_img_frame:before,
+.gallery-icon a:before,
+.cws_tweet:before,
+.tweets_carousel_header .follow_us,
+.ce_tabs .tab.active,
+.item .date.new_style:before,
+.cws_callout.alt-style .styling-border,
+.relish-new-layout .cws_portfolio_fw .links a:hover,
+.relish-new-layout .ourteam_item_wrapper .title_wrap + .desc:before,
+.relish-new-layout .title_wrap + .post_content:before,
+.relish-new-layout .comments-area .comment-respond .comment-form .submit:hover,
+.relish-new-layout .cws-widget #wp-calendar caption,
+.pricing_table_column:hover .btn_section .cws_button.alt,
+.pricing_table_column.active_table_column .cws_button.alt,
+.relish-new-layout .owl-pagination .owl-page.active,
+.cws_msg_box,
+div.wpcf7-response-output,
+.ce_accordion.second_style .accordion_section.active .accordion_title,
+.ce_toggle.second_style .accordion_section.active .accordion_title,
+.ce_accordion.third_style .accordion_title .accordion_angle:before, 
+.ce_toggle.third_style .accordion_title .accordion_angle:before,
+.ce_accordion.third_style .accordion_title .accordion_angle:after, 
+.ce_toggle.third_style .accordion_title .accordion_angle:after,
+.ce_accordion.third_style .active .accordion_title,
+.ce_toggle.third_style .active .accordion_title,
+.ce_accordion.fourth_style .active .accordion_title .accordion_angle:before, 
+.ce_toggle.fourth_style .active .accordion_title .accordion_angle:before,
+.ce_accordion.fourth_style .active .accordion_title .accordion_angle:after, 
+.ce_toggle.fourth_style .active .accordion_title .accordion_angle:after,
+.pricing_table_column:hover .price_section:before,
+.pricing_table_column.active_table_column .price_section:before,
+.pic .hover-effect,
+.cws_divider.with-plus:before,
+.cws_divider.with-plus:after,
+hr.with-plus:before,
+hr.with-plus:after,
+.news.single .item > .post_content + *:before,
+ins,
+blockquote,
+.pagination_load_more a.next.page-numbers,
+aside .cws-widget + .cws-widget:before,
+aside .cws-widget + .cws-widget:after,
+.cws_portfolio .links a:hover,
+.alt-hover .pic_alt .hover-effect,
+.mobile_menu_header .mobile_menu_switcher,
+.header_nav_part .main-menu .sub-menu li.menu-item:after,
+.gallery dl.gallery-item:hover .gallery-icon .new-size-div:after {
+	background-color: #037cff#;
+}
+a,
+.header_nav_part .main-menu li a:after, 
+.main-nav-container > .main-menu > .menu-item.menu-item-has-children > a:after,
+.main-nav-container .sub-menu:after,
+.mobile_nav .main-nav-container .menu-item:hover>a,
+.mobile_nav .main-nav-container .menu-item.current-menu-ancestor>a,
+.mobile_nav .main-nav-container .menu-item.current-menu-item>a,
+.mobile_nav .main-nav-container .menu-item:hover>.button_open,
+.mobile_nav .main-nav-container .menu-item.current-menu-ancestor>.button_open,
+.mobile_nav .main-nav-container .menu-item.current-menu-item>.button_open,
+.menu .menu-item:hover>a,
+.menu .menu-item.current-menu-ancestor>a,
+.menu .menu-item.current-menu-item>a,
+.cws-widget .menu .menu-item:hover>.opener,
+.cws-widget .menu .menu-item.current-menu-ancestor>.opener,
+.cws-widget .menu .menu-item.current-menu-item>.opener,
+.news .post_info_part .post_info .comments_link a:hover,
+.news .more-link,
+.news .post_tags>a:hover,
+.news .post_categories>a:hover,
+.news .media_part > .link span:hover,
+.testimonial .quote .quote_link,
+.pagination a:hover,
+.cws_button:hover,
+input[type='submit']:hover,
+.cws_button.alt,
+input[type='submit'].alt
+.cws-widget ul li>a:hover,
+.parent_archive .widget_archive_opener:hover,
+.cws-widget #wp-calendar caption,
+.select2-drop .select2-results .select2-highlighted,
+.ce_toggle .accordion_title:hover,
+.ce_toggle.alt .accordion_title,
+.cws_milestone,
+.cws_fa:hover,
+.cws_fa.alt,
+a.icon_link:hover .cws_fa,
+.page_title .bread-crumbs .current,
+.benefits_container .cws_textwidget_content .link a,
+.ce_title a:hover,
+.ce_accordion .active .accordion_title .accordion_icon.custom,
+.ce_toggle .active .accordion_title .accordion_icon.custom,
+.ce_accordion .active .accordion_title .accordion_angle,
+.ce_toggle .active .accordion_title .accordion_angle,
+.ce_accordion .accordion_title:hover .accordion_icon.custom,
+.ce_toggle .accordion_title:hover .accordion_icon.custom,
+.ce_accordion .accordion_title:hover .accordion_angle,
+.ce_toggle .accordion_title:hover .accordion_angle,
+.ce_accordion .accordion_section.active .accordion_title > span,
+.ce_accordion .accordion_title:hover > span,
+.cws-widget .cws_tweet .tweet_content:before,
+.cws-widget .recentcomments:before,
+.page_footer a,
+.cws_callout .icon_section .cws_fa.alt:hover,
+.relish-new-layout .cws_portfolio_fw .links a,
+.relish-new-layout .cws_portfolio_fw .title,
+.carousel_nav_panel .prev:hover,
+.carousel_nav_panel .next:hover,
+.relish-new-layout .comments-area .comment_list .comment-reply-link,
+.relish-new-layout .comments-area .comment-respond .comment-form .submit,
+.widget-title.widget-title-icon:before,
+.relish-new-layout .cws-widget #wp-calendar thead,
+.relish-new-layout .cws-widget ul li>a:hover,
+.relish-new-layout .cws_img_frame:hover:after, 
+.relish-new-layout .gallery-icon:hover a:after,
+.cws_fa.simple_icon:hover,
+.cws_fa.simple_icon.alt,
+a.icon_link:hover .cws_fa.simple_icon.alt,
+.relish-new-layout .main-nav-container > .main-menu > .menu-item:hover > a,
+.relish-new-layout .main-nav-container .menu-item.current-menu-item>a,
+.relish-new-layout .main-nav-container .menu-item.current-menu-ancestor>a,
+.pricing_table_column:hover .btn_section .cws_button.alt:hover,
+.pricing_table_column.active_table_column .btn_section .cws_button.alt:hover,
+.custom_icon_style li>i.list_list,
+.news .media_part .pic.link_post .link span:before,
+.news .media_part > .testimonial .quote + .author,
+.comments-area .required,
+aside .cws-widget .cws_tweet:before,
+.testimonial .author figcaption span,
+.testimonial .quote:after,
+.pricing_table_column:hover .title_section,
+.pricing_table_column.active_table_column .title_section,
+.cws-widget .search-form label:before,
+.cws-widget #wp-calendar tfoot td#prev a:hover, 
+.cws-widget #wp-calendar tfoot td#next a:hover,
+.comments-area .comment-meta .author-name + .comment_date:before,
+/* .cws-widget ul li:hover>a, */
+.cws_portfolio_fw .cats a,
+.cws_portfolio_fw .cats,
+.cws_portfolio_items .item .title_part a:hover,
+.cws_portfolio_filter.fw_filter a.active,
+.cws-widget .post_title a:hover,
+.h-address-groups .h-address-form .h-address-icon,
+#site_top_panel #top_panel_links .search_icon:before,
+#top_social_links_wrapper.toggle-on .social-btn-open:before,
+.main-nav-container .sub-menu .menu-item.current-menu-item>a,
+.main-nav-container .menu-item:hover>a,
+.main-nav-container .menu-item.current-menu-ancestor>.button_open,
+.header_nav_part:not(.mobile_nav) .main-nav-container .menu-item:hover > .button_open,
+.main-nav-container .sub-menu .menu-item.current-menu-ancestor>a,
+.scroll_top,
+.pagination_load_more.pagination .page_links a:hover,
+.header_nav_part .search_icon:before,
+.main-nav-container .menu-item.current-menu-item>.button_open {
+	color: #037cff#;
+}
+.relish-new-layout #site_top_panel .cws_social_links .cws_social_link:hover,
+.relish-new-layout #site_top_panel #top_social_links_wrapper .cws_social_links.expanded .cws_social_link:hover,
+.relish-new-layout .copyrights_area .cws_social_links .cws_social_link:hover,
+.cws_callout .cws_button.alt:hover{
+	color: #037cff# !important;
+}
+.ce_accordion .accordion_content:before,
+.ce_toggle .accordion_content:before{
+	border-bottom-color: #037cff#;
+}
+.ce_tabs .tab:before,
+.item .date.new_style .date-cont>span.day:before {
+	border-top-color: #037cff# !important;
+}
+.ce_toggle.alt .accordion_title{
+	box-shadow: inset 0 0 0 1px #037cff#;
+}
+.cws_divider.with-plus:before,
+.cws_divider.with-plus:after,
+hr.with-plus:before,
+hr.with-plus:after {
+	box-shadow: 200px 0 0 #037cff#, -200px 0 0 #037cff#;
+}
+
+ul li:before,
+.owl-pagination .owl-page.active,
+.copyrights_area .cws_social_links .cws_social_link:hover,
+.relish-new-layout .copyrights_area .cws_social_links .cws_social_link:hover,
+.relish-new-layout .cws_ourteam.single .social_links a:hover,
+.cws_fa_wrapper .ring,
+.cws_fa.bordered_icon.simple_icon,
+.cws_fa_wrapper:hover .cws_fa.alt + .ring,
+a.icon_link:hover .cws_fa_wrapper .cws_fa.alt + .ring,
+.ce_toggle.second_style .accordion_title .accordion_icon:not(img), 
+.ce_toggle.second_style .accordion_title .accordion_icon:not(img),
+.ce_toggle .accordion_section.active .accordion_title .accordion_icon:not(img),
+.news .media_part .pic.link_post .link span:before,
+.cws-widget ul li a:before{
+	-webkit-box-shadow: 0px 0px 0px 1px #037cff#;
+	-moz-box-shadow:    0px 0px 0px 1px #037cff#;
+	box-shadow:         0px 0px 0px 1px #037cff#;
+}
+.footer_container .cws-widget .widget-title:before {
+	box-shadow: 0px 0px 0px 0px #237dc8#, 1px 0px 0px 0px #237dc8#, 2px 0px 0px 0px #237dc8#, 3px 0px 0px 0px #237dc8#, 4px 0px 0px 0px #237dc8#, -1px 0px 0px 0px #237dc8#, -2px 0px 0px 0px #237dc8#, -3px 0px 0px 0px #237dc8#, -4px 0px 0px 0px #237dc8#, 0px 1px 0px 0px #237dc8#, 0px 2px 0px 0px #237dc8#, 0px 3px 0px 0px #237dc8#, 0px 4px 0px 0px #237dc8#, 0px -1px 0px 0px #237dc8#, 0px -2px 0px 0px #237dc8#, 0px -3px 0px 0px #237dc8#, 0px -4px 0px 0px #237dc8#;
+}
+
+.main-nav-container .sub-menu:after{
+	background: #037cff# !important;
+	border-color: #037cff# !important;
+}
+.main-nav-container .sub-menu{
+	border-bottom-color: #037cff# !important;
+}
+aside .cws-widget + .cws-widget,.site-main{
+	border-top-color: #037cff#;
+}
+.cws-widget ul li.cat-item a:before{
+	box-shadow: 0px 0px 0px 1px #037cff#;
+}
+li.cat-item .post_count,.cws-widget .post_item .post_thumb img{
+	border:1px solid #037cff# !important;
+}
+li.cat-item:hover .post_count{
+	background: #037cff#;
+}
+.owl-buttons .owl-prev:before,.owl-buttons .owl-next:before,.cws-widget .search-form label:before,.cws-widget .recentcomments:before,
+.cws-widget ul li:before,.cws-widget .tagcloud a,.cws-widget .tagcloud a:after,.post_info .info, .post_info .info *, .news .comments_link>a, .news .item .post_info > .info span, .news .post_tags>a, .news .post_categories>a, .news .comments_link>a>span,
+.item .date.new_style .date-cont,.post_info .info:after, .date.new_style:after,.news .more-link,.comments-area .comment-meta .author-name + .comment_date:before,
+.comments-area .comment-meta .comment_date span.sep:before,.comment_info_header .comment-meta .author-name,.comments-area .comment-meta span{
+	color:#037cff# !important;
+}
+.cws-widget .post_item .post_thumb:after,.fa.fa-reply{
+	background-color: #037cff# !important;
+}
+.grid .item{
+	border-top:4px solid #037cff# !important;
+}
+.news .media_part .carousel_nav>span{
+	background: #037cff# !important;
+}
+.comments-area .comment-respond .comment-form textarea,
+.comments-area input{
+	border:1px solid #037cff#;
+}
+#cws_page_loader_container #cws_page_loader:before,
+#cws_page_loader_container #cws_page_loader:after{
+	background: #037cff# !important;
+}
+.rev_slider li.tp-revslider-slidesli:after,
+.carousel_nav_panel .prev, .carousel_nav_panel .next,
+.cws_fa_wrapper .cws_fa.no-customize{
+	background: #037cff# !important;	
+}
+#cws_page_loader_container #cws_page_loader:before, #cws_page_loader_container #cws_page_loader:after{
+	background: #037cff# !important;
+}
+.cws_fa_wrapper .cws_fa.no-customize{
+    -webkit-box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #037cff#;
+    -moz-box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #037cff#;
+    box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #037cff#;	
+}
+.cws_button.add_hover.no_hover:not(.alt-style):not(.no_hover):hover,
+.comments-area .comment-respond .comment-form .submit:hover,
+li.bullets-list-arrow.bullets-list:before{
+	color:#037cff# !important;
+}
+body .woocommerce .button{
+	background: #037cff#;
+    border-color: #037cff#;
+}
+body ul.products li.product .price_button_cont .button:hover{
+	color: #037cff#;
+	border-color: #037cff#;
+}
+.owl-carousel.owl-theme .owl-controls .owl-pagination .active span,
+.pricing_table_column .price_section .price_container,
+.ce_container_accs .accordion_title, .ce_toggle .accordion_title,
+.accordion_content:before,
+.button-offers,
+.cws_milestone .user-bg,
+.cws_button.icon-on.regular,
+.pagination:not(.pagination_load_more):before, .pagination:not(.pagination_load_more):after,
+.wrapper-testimonials .cws_wrapper .author-testimonials:before,
+.gallery.owl-carousel.owl-theme .owl-controls .owl-pagination .active span,
+.woocommerce .products .media_part .pic a:before, .woocommerce .products .media_part.gallery_post .pic:before{
+	background:  #037cff#;
+}
+.button-offers:before, .button-offers:after,
+.cws_button.icon-on.regular{
+	border-color: #037cff#;
+}
+.cws_button.icon-on.regular:hover{
+	color: #037cff#;
+}
+.cws_button, input[type='submit'], .comments-area .comment-respond .comment-form .submit{
+	border-color: #037cff#;
+	background:  #037cff#;
+}
+input[type='submit'],
+.comments-area .comment-respond .comment-form .submit{
+	border:1px solid  #037cff#;
+}
+input[type='submit']:hover, .comments-area .comment-respond .comment-form .submit:hover{
+	color:#037cff#;
+}
+.pricing_table .pricing_table_column{
+	border: 1px solid #037cff#;
+}
+.accordion_content:before{
+	content: '';
+    background-color: #037cff#;
+}
+.ce_container_accs .accordion_section .accordion_title .fa{
+	color: #037cff#;
+}
+.ce_container_accs .accordion_section .accordion_title .fa.border-less{
+    box-shadow: 0px 0px 0px 1px #037cff# !important;	
+}
+.pricing_table_column .btn_section a,
+.woocommerce .button,
+.woo_mini_cart .button,
+.woocommerce .button:not(.add_to_cart_button),
+.cws-widget .button,
+.woocommerce .added_to_cart,
+.woocommerce-page .button:not(.add_to_cart_button),
+.woocommerce-page .added_to_cart{
+    background-color: #037cff#;	
+    border-color: #037cff#;
+}
+.ih-item.circle .info{
+	background: #037cff# !important;
+}
+.wrapper-circle .style-offers-three .text-information .title,
+.wrapper-circle .style-offers-three .step-txt,
+.ce_sub_title.und-title,
+.ce_title, body h1,
+.text-information .price,
+.ce_container_accs .accordion_section .accordion_title > span,
+.cws_flex_row.cws_equal_height > div form.wpcf7-form p label,
+form.wpcf7-form > div:not(.wpcf7-response-output) p label,
+.text-information .sub-title,
+.woocommerce-pagination ul.page-numbers li .next.page-numbers:before,
+.woocommerce-pagination ul.page-numbers li a,
+.woocommerce-pagination ul.page-numbers li span.current,
+.woocommerce-pagination ul.page-numbers li .prev.page-numbers:before,
+.wrapper-testimonials .cws_wrapper .author-testimonials a,
+ul li.bullets-list-check.bullets-list:before,
+.woo_panel *,
+.pagination:not(.pagination_load_more) .page_links>*,
+.pagination:not(.pagination_load_more) .page_links .page-numbers.current,
+.post_info .info:after, .date.new_style:after, .comments_link:after,
+.wrapper-circle .style-offers-three .step-txt span{
+	color:#037cff#;
+}
+.cws_ourteam_items .ourteam_item_wrapper .ourteam_content + a{
+	border-color:#037cff#;
+	background:#037cff#;
+	-webkit-box-shadow: 0 0 0 1px #037cff#;
+    -moz-box-shadow:0 0 0 1px #037cff#;
+    box-shadow:0 0 0 1px #037cff#;
+}
+.cws_ourteam_items .ourteam_item_wrapper .ourteam_content + a:hover{
+	color: #037cff#;
+    -webkit-box-shadow: 0 0 0 1px #037cff#;
+    -moz-box-shadow: 0 0 0 1px #037cff#;
+    box-shadow: 0 0 0 1px #037cff#;
+}
+.carousel_nav_panel .prev:hover, .carousel_nav_panel .next:hover{
+	color: #037cff#;
+    -webkit-box-shadow: 0 0 0 20px #ffffff inset, 0 0 0 1px #037cff# !important;
+    -moz-box-shadow: 0 0 0 20px #ffffff inset, 0 0 0 1px #037cff# !important;
+    box-shadow: 0 0 0 20px #ffffff inset, 0 0 0 1px #037cff# !important;
+}
+.ce_tabs .tab_sections,.ce_tabs .tab{
+	border: 1px solid #037cff#;
+}
+html[dir='rtl'] .ce_tabs .tab:last-child{
+	border-left: 1px solid #037cff#;
+}
+
+.carousel_nav_panel .prev, .carousel_nav_panel .next{
+    -webkit-box-shadow: 0 0 0 4px #fff inset, 0 0 0 1px #037cff# !important;
+    -moz-box-shadow: 0 0 0 4px #fff inset, 0 0 0 1px #037cff# !important;
+    box-shadow: 0 0 0 4px #fff inset, 0 0 0 1px #037cff# !important;	
+}
+.woocommerce-pagination:before, .woocommerce-pagination:after{
+	background:#037cff#;
+}
+.woocommerce-pagination ul.page-numbers li span.current{
+	border-bottom: 2px solid #037cff#;
+}
+.pricing_table .pricing_table_column.active .price_section{
+
+    border: 10px solid  #037cff#;
+}
+.carousel_nav_panel .prev:hover:before{
+
+	color:#037cff#;
+}
+.carousel_nav_panel .next:hover:before,.comments-area .comments_title.ce_title span{
+
+	color:#037cff#;
+}
+.cart-collaterals .cart_totals table tr th:before{
+	box-shadow: inset 0 0 0 1px #037cff#;
+}
+.woocommerce input.button.alt:hover{
+	color: #037cff# !important;
+}
+
+.pagination_load_more.pagination .page_links a{
+	box-shadow: 0 0 0 1px #037cff#;
+}
+.comment_list .comment.parent .comments_children .comment,
+.comments-area  .comment_list > .comment:last-child{
+	border-bottom-color: #037cff#;
+}
+
+.comments-area .comment_list .comment-reply-link i{
+	-webkit-box-shadow: 0 0 0 1px #037cff# inset;
+    -moz-box-shadow: 0 0 0 1px #037cff# inset;
+    box-shadow: 0 0 0 1px #037cff# inset;
+}
+.comments-area .comment_list .comment-reply-link:hover i{
+	color: #037cff#;
+}
+.sl-button:hover,.sl-wrapper a,.sl-wrapper,.cws_callout{
+	color: #037cff#;	
+}
+.comment_list .comment-body,
+.comments-area .comments_children,
+.comment_list .comments_children .parent .comment-body{
+	border-bottom: 1px solid #037cff#;
+}
+@media screen and ( max-width: 768px ){
+	.news.news-pinterest .grid.grid-3 .item:nth-child(2),.news.news-pinterest .grid.grid-3 .item:nth-child(3){
+		border-top: 4px solid #037cff# !important;
+	}
+	.news.news-pinterest .grid.grid-2 .item:nth-child(2){
+		border-top: 4px solid #037cff# !important;
+	}
+}

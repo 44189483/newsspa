@@ -1,0 +1,3002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Relish - Spa Salon WordPress Theme\n"
+"POT-Creation-Date: 2016-12-27 08:15+0200\n"
+"PO-Revision-Date: 2016-12-27 08:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: CWS Team <support@creaws.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: relish\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: ../../languages/relish/css\n"
+"X-Poedit-SearchPathExcluded-1: ../../languages/relish/js\n"
+"X-Poedit-SearchPathExcluded-2: ../../languages/relish/fonts\n"
+"X-Poedit-SearchPathExcluded-3: ../../languages/relish/fw/js\n"
+"X-Poedit-SearchPathExcluded-4: fw/js\n"
+
+#: 404.php:29
+msgid "Sorry"
+msgstr ""
+
+#: 404.php:29
+msgid "This page doesn't exist."
+msgstr ""
+
+#: 404.php:34
+msgid "Please, proceed to our "
+msgstr ""
+
+#: 404.php:34
+msgid "Home page"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:41
+msgid "Send"
+msgstr ""
+
+#: core/cws_thumb.php:118
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: core/cws_thumb.php:233
+msgid "Image rotate failed."
+msgstr ""
+
+#: core/cws_thumb.php:255
+msgid "Image opacity change failed."
+msgstr ""
+
+#: core/cws_thumb.php:333
+msgid "Image color change failed."
+msgstr ""
+
+#: core/cws_thumb.php:349
+msgid "Image grayscale failed."
+msgstr ""
+
+#: core/cws_thumb.php:365
+msgid "Image negate failed."
+msgstr ""
+
+#: core/breadcrumbs.php:4 functions.php:1695 functions.php:1710
+#: fw/sections.php:600
+msgid "Home"
+msgstr ""
+
+#: core/breadcrumbs.php:5
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:6 functions.php:1697
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:7 functions.php:1698
+#, php-format
+msgid "Archive by %s \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:8 functions.php:1699
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:9 functions.php:1700
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: core/breadcrumbs.php:10 functions.php:1701
+msgid "Error 404"
+msgstr ""
+
+#: core/breadcrumbs.php:182 fw/sections.php:998
+msgid "Page"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:334 core/plugins.php:90
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:335 core/plugins.php:91
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/class-tgm-plugin-activation.php:337 core/plugins.php:92
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:340 core/plugins.php:93
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:392 core/plugins.php:104
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:393
+#: core/class-tgm-plugin-activation.php:912
+#: core/class-tgm-plugin-activation.php:2618
+#: core/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:394
+#: core/class-tgm-plugin-activation.php:3244 core/plugins.php:105
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:1019
+#: core/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: core/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2634 pbf.php:197 pbf.php:475
+#: pbf.php:549 pbf.php:1263 pbf.php:1284 pbf.php:1851 pbf.php:2797 pbf.php:2917
+msgid "Type"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3594
+#: core/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3594
+#: core/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/metaboxes.php:9 fw/sections.php:1395
+msgid "Sidebar Position"
+msgstr ""
+
+#: core/metaboxes.php:13 core/metaboxes.php:44
+msgid "Default"
+msgstr ""
+
+#: core/metaboxes.php:14 fw/sections.php:45 fw/sections.php:121
+#: fw/sections.php:216 fw/sections.php:975 fw/sections.php:1005
+#: fw/sections.php:1044 fw/sections.php:1399
+msgid "Left"
+msgstr ""
+
+#: core/metaboxes.php:15 fw/sections.php:47 fw/sections.php:65
+#: fw/sections.php:76 fw/sections.php:123 fw/sections.php:217
+#: fw/sections.php:976 fw/sections.php:1006 fw/sections.php:1045
+#: fw/sections.php:1400
+msgid "Right"
+msgstr ""
+
+#: core/metaboxes.php:16
+msgid "Double"
+msgstr ""
+
+#: core/metaboxes.php:17 core/widgets/cws_latest_posts.php:50
+#: core/widgets/cws_portfolio.php:51 core/widgets/cws_text.php:52
+#: core/widgets/cws_twitter.php:51 fw/sections.php:215 fw/sections.php:606
+#: fw/sections.php:671 fw/sections.php:978 fw/sections.php:1008
+#: fw/sections.php:1047 fw/sections.php:1289 fw/sections.php:1401
+msgid "None"
+msgstr ""
+
+#: core/metaboxes.php:21 fw/sections.php:1405
+msgid "Select a sidebar"
+msgstr ""
+
+#: core/metaboxes.php:28
+msgid "Select right sidebar"
+msgstr ""
+
+#: core/metaboxes.php:35
+msgid "Show Blog posts"
+msgstr ""
+
+#: core/metaboxes.php:41 fw/sections.php:1063
+msgid "Blog Layout"
+msgstr ""
+
+#: core/metaboxes.php:45 fw/sections.php:1070
+msgid "Small"
+msgstr ""
+
+#: core/metaboxes.php:46 fw/sections.php:1069
+msgid "Medium"
+msgstr ""
+
+#: core/metaboxes.php:47 fw/sections.php:1068
+msgid "Large"
+msgstr ""
+
+#: core/metaboxes.php:48 fw/sections.php:1071
+msgid "Two"
+msgstr ""
+
+#: core/metaboxes.php:49 fw/sections.php:1072
+msgid "Three"
+msgstr ""
+
+#: core/metaboxes.php:53
+msgid "Category"
+msgstr ""
+
+#: core/metaboxes.php:62
+msgid "Customize footer"
+msgstr ""
+
+#: core/metaboxes.php:66
+msgid "Sidebar area"
+msgstr ""
+
+#: core/metaboxes.php:73
+msgid "Add Image Slider"
+msgstr ""
+
+#: core/metaboxes.php:77 fw/sections.php:613 fw/sections.php:629
+msgid "Slider shortcode"
+msgstr ""
+
+#: core/metaboxes.php:115
+msgid "Show details page"
+msgstr ""
+
+#: core/metaboxes.php:120
+msgid "Social networks"
+msgstr ""
+
+#: core/metaboxes.php:121 fw/sections.php:1266
+msgid "Add new social network"
+msgstr ""
+
+#: core/metaboxes.php:126 fw/sections.php:1271
+msgid "Social account title"
+msgstr ""
+
+#: core/metaboxes.php:132 fw/sections.php:1277
+msgid "Select the icon for this social contact"
+msgstr ""
+
+#: core/metaboxes.php:136 fw/sections.php:1281
+msgid "Url to your account"
+msgstr ""
+
+#: core/metaboxes.php:162
+msgid "Show related items"
+msgstr ""
+
+#: core/metaboxes.php:168
+msgid "Related items options"
+msgstr ""
+
+#: core/metaboxes.php:172 pbf.php:317 pbf.php:591 pbf.php:617 pbf.php:880
+#: pbf.php:936 pbf.php:951 pbf.php:1238 pbf.php:1534 pbf.php:1549 pbf.php:1786
+#: pbf.php:2075 pbf.php:2107 pbf.php:2230 pbf.php:2417 pbf.php:2495
+#: pbf.php:2927
+msgid "Title"
+msgstr ""
+
+#: core/metaboxes.php:173
+msgid "Related items"
+msgstr ""
+
+#: core/metaboxes.php:177 pbf.php:302 pbf.php:322 pbf.php:1720 pbf.php:2143
+#: pbf.php:2244 pbf.php:2500 pbf.php:2904
+msgid "Columns"
+msgstr ""
+
+#: core/metaboxes.php:179
+msgid "one"
+msgstr ""
+
+#: core/metaboxes.php:180
+msgid "two"
+msgstr ""
+
+#: core/metaboxes.php:181
+msgid "three"
+msgstr ""
+
+#: core/metaboxes.php:182
+msgid "four"
+msgstr ""
+
+#: core/metaboxes.php:187
+msgid "Number of items to show"
+msgstr ""
+
+#: core/metaboxes.php:191
+msgid "Enable hover effect (FancyBox)"
+msgstr ""
+
+#: core/metaboxes.php:197
+msgid "Add custom URL"
+msgstr ""
+
+#: core/metaboxes.php:205
+msgid "Open in a popup window (FancyBox)"
+msgstr ""
+
+#: core/metaboxes.php:222
+msgid "Gallery"
+msgstr ""
+
+#: core/metaboxes.php:232
+msgid "Video"
+msgstr ""
+
+#: core/metaboxes.php:235
+msgid "Direct URL path of a video file"
+msgstr ""
+
+#: core/metaboxes.php:243
+msgid "Audio"
+msgstr ""
+
+#: core/metaboxes.php:246
+msgid "A self-hosted or SoundClod audio file URL"
+msgstr ""
+
+#: core/metaboxes.php:247
+msgid "Ex.: /wp-content/uploads/audio.mp3 or http://soundcloud.com/..."
+msgstr ""
+
+#: core/metaboxes.php:255 core/widgets/cws_text.php:142 pbf.php:680 pbf.php:999
+#: pbf.php:1067 pbf.php:1395 pbf.php:1621 pbf.php:1932 pbf.php:2080
+#: pbf.php:2181
+msgid "Url"
+msgstr ""
+
+#: core/metaboxes.php:265
+msgid "Quote"
+msgstr ""
+
+#: core/metaboxes.php:268
+msgid "Enter the quote"
+msgstr ""
+
+#: core/metaboxes.php:273 pbf.php:2162 pbf.php:2166
+msgid "Author"
+msgstr ""
+
+#: core/metaboxes.php:277
+msgid "Photo"
+msgstr ""
+
+#: core/metaboxes.php:291
+msgid "Enable lightbox"
+msgstr ""
+
+#: core/pb.php:190 core/pb.php:194 core/widgets/cws_latest_posts.php:64
+#: core/widgets/cws_portfolio.php:65 core/widgets/cws_text.php:66
+#: core/widgets/cws_twitter.php:65 fw/pbfw.php:398 fw/pbfw.php:402
+#: fw/sections.php:270 fw/sections.php:694 fw/sections.php:831 pbf.php:181
+#: pbf.php:2781
+msgid "From"
+msgstr ""
+
+#: core/pb.php:190 core/pb.php:194 fw/pbfw.php:398 fw/pbfw.php:402
+msgid "till"
+msgstr ""
+
+#: core/pb.php:265 core/pb.php:275 fw/pbfw.php:478 fw/pbfw.php:491
+msgid "Select"
+msgstr ""
+
+#: core/pb.php:266 fw/pbfw.php:479
+msgid "Remove"
+msgstr ""
+
+#: core/plugins.php:9
+msgid "CWS PageBuilder plugin"
+msgstr ""
+
+#: core/plugins.php:19
+msgid "CWS Portfolio Staff"
+msgstr ""
+
+#: core/plugins.php:29
+msgid "CWS Flaticons"
+msgstr ""
+
+#: core/plugins.php:39
+msgid "Revolution Slider Plugin"
+msgstr ""
+
+#: core/plugins.php:49
+msgid "CWS Demo Importer Plugin"
+msgstr ""
+
+#: core/plugins.php:59
+msgid "Contact Form 7 Plugin"
+msgstr ""
+
+#: core/plugins.php:64
+msgid "WP Google Maps"
+msgstr ""
+
+#: core/plugins.php:69
+msgid "oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: core/plugins.php:106
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/scg.php:52
+msgid "Insert Shortcode"
+msgstr ""
+
+#: core/shortcodes.php:2074 core/shortcodes.php:2430
+msgid "All"
+msgstr ""
+
+#: core/shortcodes.php:3735 core/shortcodes.php:3837
+msgid "Twitter responds:"
+msgstr ""
+
+#: core/shortcodes.php:3892
+msgid "Missing Consumer Key - Check Settings"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:9 core/widgets/cws_portfolio.php:10
+#: core/widgets/cws_twitter.php:9
+msgid "Widget Title"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:14 core/widgets/cws_portfolio.php:15
+#: core/widgets/cws_text.php:16 core/widgets/cws_twitter.php:15
+msgid "Show icon options"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:19 core/widgets/cws_portfolio.php:20
+#: core/widgets/cws_text.php:21 core/widgets/cws_twitter.php:20
+msgid "Icon type"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:24 core/widgets/cws_portfolio.php:25
+#: core/widgets/cws_text.php:26 core/widgets/cws_twitter.php:25
+msgid "icon"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:25 core/widgets/cws_portfolio.php:26
+#: core/widgets/cws_text.php:27 core/widgets/cws_twitter.php:26
+msgid "image"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:29 core/widgets/cws_portfolio.php:30
+#: core/widgets/cws_text.php:31 core/widgets/cws_twitter.php:30
+msgid "Font Awesome character"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:35 core/widgets/cws_portfolio.php:36
+#: core/widgets/cws_text.php:37 core/widgets/cws_twitter.php:36
+msgid "Custom icon"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:41 core/widgets/cws_portfolio.php:42
+#: core/widgets/cws_text.php:43 core/widgets/cws_twitter.php:42
+msgid "Icon color"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:46 core/widgets/cws_portfolio.php:47
+#: core/widgets/cws_twitter.php:47 pbf.php:795 pbf.php:1175 pbf.php:1498
+msgid "Background type"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:51 core/widgets/cws_portfolio.php:52
+#: core/widgets/cws_text.php:53 core/widgets/cws_twitter.php:52
+#: fw/sections.php:254 fw/sections.php:672 fw/sections.php:815 pbf.php:174
+#: pbf.php:651 pbf.php:1017 pbf.php:1085 pbf.php:1180 pbf.php:1502 pbf.php:1860
+#: pbf.php:2774
+msgid "Color"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:52 core/widgets/cws_portfolio.php:53
+#: core/widgets/cws_text.php:54 core/widgets/cws_twitter.php:53
+#: fw/sections.php:255 fw/sections.php:673 fw/sections.php:816 pbf.php:1181
+#: pbf.php:1503
+msgid "Gradient"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:57 core/widgets/cws_portfolio.php:58
+#: core/widgets/cws_text.php:59 core/widgets/cws_twitter.php:58
+msgid "Icon background color"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:70 core/widgets/cws_portfolio.php:71
+#: core/widgets/cws_text.php:72 core/widgets/cws_twitter.php:71
+#: fw/sections.php:275 fw/sections.php:699 fw/sections.php:836 pbf.php:189
+#: pbf.php:2789
+msgid "To"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:75 core/widgets/cws_latest_posts.php:90
+#: core/widgets/cws_latest_posts.php:99 core/widgets/cws_portfolio.php:76
+#: core/widgets/cws_portfolio.php:91 core/widgets/cws_portfolio.php:100
+#: core/widgets/cws_text.php:77 core/widgets/cws_text.php:92
+#: core/widgets/cws_text.php:101 core/widgets/cws_twitter.php:76
+#: core/widgets/cws_twitter.php:91 core/widgets/cws_twitter.php:100
+#: fw/sections.php:279 fw/sections.php:313 fw/sections.php:703
+#: fw/sections.php:737 fw/sections.php:840 fw/sections.php:874
+msgid "Gradient type"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:79 core/widgets/cws_portfolio.php:80
+#: core/widgets/cws_text.php:81 core/widgets/cws_twitter.php:80
+#: fw/sections.php:282 fw/sections.php:706 fw/sections.php:843
+msgid "Linear"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:80 core/widgets/cws_portfolio.php:81
+#: core/widgets/cws_text.php:82 core/widgets/cws_twitter.php:81
+#: fw/sections.php:283 fw/sections.php:707 fw/sections.php:844
+msgid "Radial"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:85 core/widgets/cws_portfolio.php:86
+#: core/widgets/cws_text.php:87 core/widgets/cws_twitter.php:86
+#: fw/sections.php:293 fw/sections.php:717 fw/sections.php:854 pbf.php:207
+#: pbf.php:2807
+msgid "Angle"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:94 core/widgets/cws_portfolio.php:95
+#: core/widgets/cws_text.php:96 core/widgets/cws_twitter.php:95
+#: fw/sections.php:172 fw/sections.php:308 fw/sections.php:732
+#: fw/sections.php:869
+msgid "Simple"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:95 core/widgets/cws_portfolio.php:96
+#: core/widgets/cws_text.php:97 core/widgets/cws_twitter.php:96
+#: fw/sections.php:309 fw/sections.php:733 fw/sections.php:870
+msgid "Extended"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:103 core/widgets/cws_portfolio.php:104
+#: core/widgets/cws_text.php:105 core/widgets/cws_twitter.php:104
+#: fw/sections.php:317 fw/sections.php:741 fw/sections.php:878
+msgid "Ellipse"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:104 core/widgets/cws_portfolio.php:105
+#: core/widgets/cws_text.php:106 core/widgets/cws_twitter.php:105
+msgid "Cirle"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:109 core/widgets/cws_portfolio.php:110
+#: core/widgets/cws_text.php:111 core/widgets/cws_twitter.php:110
+#: fw/sections.php:323 fw/sections.php:747 fw/sections.php:884 pbf.php:236
+#: pbf.php:2836
+msgid "Size keyword"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:112 core/widgets/cws_portfolio.php:113
+#: core/widgets/cws_text.php:114 core/widgets/cws_twitter.php:113
+#: fw/sections.php:326 fw/sections.php:750 fw/sections.php:887
+msgid "Closest side"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:113 core/widgets/cws_portfolio.php:114
+#: core/widgets/cws_text.php:115 core/widgets/cws_twitter.php:114
+#: fw/sections.php:327 fw/sections.php:751 fw/sections.php:888
+msgid "Farthest side"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:114 core/widgets/cws_portfolio.php:115
+#: core/widgets/cws_text.php:116 core/widgets/cws_twitter.php:115
+#: fw/sections.php:328 fw/sections.php:752 fw/sections.php:889
+msgid "Closest corner"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:115 core/widgets/cws_portfolio.php:116
+#: core/widgets/cws_text.php:117 core/widgets/cws_twitter.php:116
+#: fw/sections.php:329 fw/sections.php:753 fw/sections.php:890
+msgid "Farthest corner"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:120 core/widgets/cws_portfolio.php:121
+#: core/widgets/cws_text.php:122 core/widgets/cws_twitter.php:121
+#: fw/sections.php:335 fw/sections.php:759 fw/sections.php:896 pbf.php:248
+#: pbf.php:490 pbf.php:1299 pbf.php:1360 pbf.php:1916 pbf.php:2848
+msgid "Size"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:122 core/widgets/cws_portfolio.php:123
+#: core/widgets/cws_text.php:124 core/widgets/cws_twitter.php:123
+#: fw/sections.php:336 fw/sections.php:760 fw/sections.php:897
+msgid "Two space separated percent values, for example (60% 55%)"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:125
+msgid "Post categories"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:133
+msgid "Post count"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:138
+msgid "Posts per slide"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:143
+msgid "Count of chars from post content"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:148 core/widgets/cws_twitter.php:146
+#: pbf.php:1253
+msgid "Show date"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:153
+msgid "CWS most recent posts"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:154
+msgid "CWS Recent Posts"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:245
+msgid "..."
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:274 core/widgets/cws_portfolio.php:232
+msgid "There are no posts matching the query"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:127 pbf.php:383
+msgid "Categories"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:133
+msgid "Items Count"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:140
+msgid "Portfolio Items"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:141
+msgid "CWS Portfolio"
+msgstr ""
+
+#: core/widgets/cws_text.php:10
+msgid "Widget title"
+msgstr ""
+
+#: core/widgets/cws_text.php:48
+msgid "Background"
+msgstr ""
+
+#: core/widgets/cws_text.php:127 pbf.php:13 pbf.php:995 pbf.php:1062
+#: pbf.php:1556 pbf.php:2175 pbf.php:2932
+msgid "Text"
+msgstr ""
+
+#: core/widgets/cws_text.php:133
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: core/widgets/cws_text.php:137
+msgid "Add link"
+msgstr ""
+
+#: core/widgets/cws_text.php:147
+msgid "Link text"
+msgstr ""
+
+#: core/widgets/cws_text.php:155
+msgid "Modified WP Text widget"
+msgstr ""
+
+#: core/widgets/cws_text.php:156
+msgid "CWS Text"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:126
+msgid "Align"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:130 fw/sections.php:64 fw/sections.php:75
+#: fw/sections.php:492 pbf.php:1409 pbf.php:1943 pbf.php:2122
+msgid "left"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:131 fw/sections.php:46 fw/sections.php:122
+#: pbf.php:1410 pbf.php:1944 pbf.php:2123
+msgid "Center"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:132 fw/sections.php:493 pbf.php:1411
+#: pbf.php:1945 pbf.php:2124
+msgid "right"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:136 pbf.php:1243
+msgid "Tweets to extract"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:141 pbf.php:1248
+msgid "Tweets to show"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:153
+msgid "CWS Twitter Widget"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:154
+msgid "CWS Twitter"
+msgstr ""
+
+#: functions.php:87
+msgid ""
+" theme notice: Please insert your Item Purchase Code in Theme Options to get "
+"the latest theme updates!"
+msgstr ""
+
+#: functions.php:709
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:710
+msgid "SideBar Menu"
+msgstr ""
+
+#: functions.php:1063 functions.php:1247
+msgid "Like"
+msgstr ""
+
+#: functions.php:1064 functions.php:1243
+msgid "Unlike"
+msgstr ""
+
+#: functions.php:1077
+msgid "Not permitted"
+msgstr ""
+
+#: functions.php:1331
+msgid "0"
+msgstr ""
+
+#: functions.php:1346
+msgid "You Like:"
+msgstr ""
+
+#: functions.php:1372
+msgid "You do not like anything yet."
+msgstr ""
+
+#: functions.php:1530 functions.php:2282
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:1696
+#, php-format
+msgid "Category \"%s\""
+msgstr ""
+
+#: functions.php:1706
+msgid "404 Page"
+msgstr ""
+
+#: functions.php:1708
+msgid "Search"
+msgstr ""
+
+#: functions.php:3589
+msgid "Load More"
+msgstr ""
+
+#: functions.php:3632
+msgid "View More"
+msgstr ""
+
+#: functions.php:3654
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:3655
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:3741 functions.php:3813 functions.php:3920
+msgid "by "
+msgstr ""
+
+#: functions.php:3864 functions.php:3885 functions.php:3973 search.php:155
+msgid "Read More"
+msgstr ""
+
+#: functions.php:4288
+msgid "year"
+msgstr ""
+
+#: functions.php:4288
+msgid "years"
+msgstr ""
+
+#: functions.php:4289
+msgid "month"
+msgstr ""
+
+#: functions.php:4289
+msgid "months"
+msgstr ""
+
+#: functions.php:4290
+msgid "week"
+msgstr ""
+
+#: functions.php:4290
+msgid "weeks"
+msgstr ""
+
+#: functions.php:4291
+msgid "day"
+msgstr ""
+
+#: functions.php:4291
+msgid "days"
+msgstr ""
+
+#: functions.php:4292
+msgid "hour"
+msgstr ""
+
+#: functions.php:4292
+msgid "hours"
+msgstr ""
+
+#: functions.php:4293
+msgid "minute"
+msgstr ""
+
+#: functions.php:4293
+msgid "minutes"
+msgstr ""
+
+#: functions.php:4294
+msgid "second"
+msgstr ""
+
+#: functions.php:4294 functions.php:4334
+msgid "seconds"
+msgstr ""
+
+#: functions.php:4311
+msgid "sometime"
+msgstr ""
+
+#: functions.php:4337
+msgid " ago"
+msgstr ""
+
+#: functions.php:4631
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:4662
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:4666
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:4741
+msgid "Circle Image(Large)"
+msgstr ""
+
+#: functions.php:4755
+msgid "Circle Image(Small)"
+msgstr ""
+
+#: functions.php:4769
+msgid "Circle Image(Medium)"
+msgstr ""
+
+#: functions.php:4783
+msgid "Square Image(Small)"
+msgstr ""
+
+#: functions.php:4798
+msgid "Square Image(Medium)"
+msgstr ""
+
+#: fw/config.php:21 fw/config.php:22 fw/config.php:331
+msgid "Theme Options"
+msgstr ""
+
+#: fw/config.php:103 fw/config.php:124
+msgid "Import & Export options"
+msgstr ""
+
+#: fw/config.php:133
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: fw/config.php:138
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: fw/config.php:145
+msgid "Export current Theme Options"
+msgstr ""
+
+#: fw/config.php:172
+msgid "There're unsaved changes. Don't forget to save them."
+msgstr ""
+
+#: fw/config.php:192 fw/config.php:212
+msgid "Invalid nonce"
+msgstr ""
+
+#: fw/config.php:332
+msgid "CWS Theme Options."
+msgstr ""
+
+#: fw/config.php:360 fw/config.php:401 pbf.php:2592 pbf.php:2900
+msgid "General"
+msgstr ""
+
+#: fw/config.php:388
+msgid "Page Metaboxes"
+msgstr ""
+
+#: fw/config.php:389
+msgid "Page Metaboxes description"
+msgstr ""
+
+#: fw/pbfw.php:288
+msgid "Font Catalog"
+msgstr ""
+
+#: fw/pbfw.php:294
+msgid "Font Subsets"
+msgstr ""
+
+#: fw/pbfw.php:305
+msgid "Font Family"
+msgstr ""
+
+#: fw/pbfw.php:312
+msgid "Font Weight"
+msgstr ""
+
+#: fw/pbfw.php:324
+msgid "Font Scripts"
+msgstr ""
+
+#: fw/pbfw.php:341 fw/sections.php:399 pbf.php:1030 pbf.php:1096 pbf.php:1487
+#: pbf.php:2045 pbf.php:2053 pbf.php:2452
+msgid "Font Color"
+msgstr ""
+
+#: fw/pbfw.php:347
+msgid "Font Size"
+msgstr ""
+
+#: fw/pbfw.php:353
+msgid "Line height"
+msgstr ""
+
+#: fw/pbfw.php:363
+msgid "Quick brown fox jumps over the lazy dog"
+msgstr ""
+
+#: fw/pbfw.php:553
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: fw/pbfw.php:554
+msgid "Ultra-Light Italic 100"
+msgstr ""
+
+#: fw/pbfw.php:555
+msgid "Light 200"
+msgstr ""
+
+#: fw/pbfw.php:556
+msgid "Light Italic 200"
+msgstr ""
+
+#: fw/pbfw.php:557
+msgid "Book 300"
+msgstr ""
+
+#: fw/pbfw.php:558
+msgid "Book Italic 300"
+msgstr ""
+
+#: fw/pbfw.php:559
+msgid "Regular 400"
+msgstr ""
+
+#: fw/pbfw.php:560
+msgid "Italic 400"
+msgstr ""
+
+#: fw/pbfw.php:561
+msgid "Medium 500"
+msgstr ""
+
+#: fw/pbfw.php:562
+msgid "Medium Italic 500"
+msgstr ""
+
+#: fw/pbfw.php:563
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: fw/pbfw.php:564
+msgid "Semi-Bols Italic 600"
+msgstr ""
+
+#: fw/pbfw.php:565
+msgid "Bold 700"
+msgstr ""
+
+#: fw/pbfw.php:566
+msgid "Bold Italic 700"
+msgstr ""
+
+#: fw/pbfw.php:567
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: fw/pbfw.php:568
+msgid "Extra-Bold Italic 800"
+msgstr ""
+
+#: fw/pbfw.php:569
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: fw/pbfw.php:570
+msgid "Ultra-Bold Italic 900"
+msgstr ""
+
+#: fw/pbfw.php:582
+msgid "Latin"
+msgstr ""
+
+#: fw/pbfw.php:583
+msgid "Latin Extended"
+msgstr ""
+
+#: fw/pbfw.php:584
+msgid "Greek"
+msgstr ""
+
+#: fw/pbfw.php:585
+msgid "Greek Extended"
+msgstr ""
+
+#: fw/pbfw.php:586
+msgid "Vietnamese"
+msgstr ""
+
+#: fw/pbfw.php:587
+msgid "Hebrew"
+msgstr ""
+
+#: fw/pbfw.php:588
+msgid "Arabic"
+msgstr ""
+
+#: fw/pbfw.php:589
+msgid "Devanagari"
+msgstr ""
+
+#: fw/pbfw.php:590
+msgid "Cyrillic"
+msgstr ""
+
+#: fw/pbfw.php:591
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: fw/pbfw.php:592
+msgid "Khmer"
+msgstr ""
+
+#: fw/pbfw.php:593
+msgid "Tamil"
+msgstr ""
+
+#: fw/pbfw.php:594
+msgid "Thai"
+msgstr ""
+
+#: fw/pbfw.php:595
+msgid "Telugu"
+msgstr ""
+
+#: fw/pbfw.php:596
+msgid "Bengali"
+msgstr ""
+
+#: fw/pbfw.php:597
+msgid "Gujarati"
+msgstr ""
+
+#: fw/sections.php:7 fw/sections.php:238 fw/sections.php:1143
+msgid "Header"
+msgstr ""
+
+#: fw/sections.php:15
+msgid "Logotype"
+msgstr ""
+
+#: fw/sections.php:18
+msgid "Logo"
+msgstr ""
+
+#: fw/sections.php:24 fw/sections.php:87
+msgid "High-Resolution sticky logo"
+msgstr ""
+
+#: fw/sections.php:31
+msgid "Dimensions"
+msgstr ""
+
+#: fw/sections.php:35 pbf.php:1415 pbf.php:2086
+msgid "Width"
+msgstr ""
+
+#: fw/sections.php:36 pbf.php:2092
+msgid "Height"
+msgstr ""
+
+#: fw/sections.php:40 fw/sections.php:116
+msgid "Position"
+msgstr ""
+
+#: fw/sections.php:48
+msgid "Inside"
+msgstr ""
+
+#: fw/sections.php:54
+msgid "Inner Position"
+msgstr ""
+
+#: fw/sections.php:55 fw/sections.php:149 fw/sections.php:345
+#: fw/sections.php:684 fw/sections.php:906 pbf.php:270 pbf.php:2870
+msgid "In percents"
+msgstr ""
+
+#: fw/sections.php:59 fw/sections.php:70
+msgid "Margin"
+msgstr ""
+
+#: fw/sections.php:63 fw/sections.php:74 fw/sections.php:131
+#: fw/sections.php:407 fw/sections.php:1015
+msgid "Top"
+msgstr ""
+
+#: fw/sections.php:66 fw/sections.php:77 fw/sections.php:132
+#: fw/sections.php:408 fw/sections.php:1016
+msgid "Bottom"
+msgstr ""
+
+#: fw/sections.php:81
+msgid "Sticky logo"
+msgstr ""
+
+#: fw/sections.php:95
+msgid "Mobile logo"
+msgstr ""
+
+#: fw/sections.php:101
+msgid "High-Resolution logo"
+msgstr ""
+
+#: fw/sections.php:113 fw/sections.php:1120
+msgid "Menu"
+msgstr ""
+
+#: fw/sections.php:127
+msgid "Header margin"
+msgstr ""
+
+#: fw/sections.php:136
+msgid "Header hovers slider"
+msgstr ""
+
+#: fw/sections.php:142
+msgid "Show Sandwich Menu"
+msgstr ""
+
+#: fw/sections.php:148 fw/sections.php:344 fw/sections.php:683
+#: fw/sections.php:905 pbf.php:269 pbf.php:2869
+msgid "Opacity"
+msgstr ""
+
+#: fw/sections.php:155
+msgid "Header Font color"
+msgstr ""
+
+#: fw/sections.php:161
+msgid "Apply sticky menu"
+msgstr ""
+
+#: fw/sections.php:167
+msgid "Sticky menu mode"
+msgstr ""
+
+#: fw/sections.php:171
+msgid "Smart"
+msgstr ""
+
+#: fw/sections.php:179
+msgid "Enable mobile menu"
+msgstr ""
+
+#: fw/sections.php:190 fw/sections.php:1290
+msgid "Top Panel"
+msgstr ""
+
+#: fw/sections.php:193
+msgid "Switch On/Off the Top Panel"
+msgstr ""
+
+#: fw/sections.php:199 pbf.php:48
+msgid "Content"
+msgstr ""
+
+#: fw/sections.php:204
+msgid "Toogle Social Icons"
+msgstr ""
+
+#: fw/sections.php:210
+msgid "Search icon position"
+msgstr ""
+
+#: fw/sections.php:221
+msgid "Top Panel Background Color"
+msgstr ""
+
+#: fw/sections.php:227
+msgid "Top Panel Font color"
+msgstr ""
+
+#: fw/sections.php:241
+msgid "Customize headers"
+msgstr ""
+
+#: fw/sections.php:247
+msgid "Header Image"
+msgstr ""
+
+#: fw/sections.php:251 fw/sections.php:812
+msgid "Color overlay type"
+msgstr ""
+
+#: fw/sections.php:259 fw/sections.php:820
+msgid "Overlay color"
+msgstr ""
+
+#: fw/sections.php:264 fw/sections.php:825
+msgid "Gradient Settings"
+msgstr ""
+
+#: fw/sections.php:287 fw/sections.php:711 fw/sections.php:848
+msgid "Linear settings"
+msgstr ""
+
+#: fw/sections.php:299 fw/sections.php:723 fw/sections.php:860
+msgid "Radial settings"
+msgstr ""
+
+#: fw/sections.php:304 fw/sections.php:728 fw/sections.php:865 pbf.php:226
+#: pbf.php:2826
+msgid "Shape"
+msgstr ""
+
+#: fw/sections.php:318 fw/sections.php:742 fw/sections.php:879
+msgid "Circle"
+msgstr ""
+
+#: fw/sections.php:349 fw/sections.php:910
+msgid "Add pattern"
+msgstr ""
+
+#: fw/sections.php:355 fw/sections.php:773 fw/sections.php:916
+msgid "Pattern image"
+msgstr ""
+
+#: fw/sections.php:362 fw/sections.php:933
+msgid "Parallaxify image"
+msgstr ""
+
+#: fw/sections.php:368 fw/sections.php:939
+msgid "Parallax options"
+msgstr ""
+
+#: fw/sections.php:374 fw/sections.php:944
+msgid "x-axis parallax intensity"
+msgstr ""
+
+#: fw/sections.php:375 fw/sections.php:381 fw/sections.php:387
+#: fw/sections.php:393 fw/sections.php:945 fw/sections.php:951
+#: fw/sections.php:957 fw/sections.php:963
+msgid "Integer"
+msgstr ""
+
+#: fw/sections.php:380 fw/sections.php:950
+msgid "y-axis parallax intensity"
+msgstr ""
+
+#: fw/sections.php:386 fw/sections.php:956
+msgid "Maximum x-axis shift"
+msgstr ""
+
+#: fw/sections.php:392 fw/sections.php:962
+msgid "Maximum y-axis shift"
+msgstr ""
+
+#: fw/sections.php:404 pbf.php:69 pbf.php:406 pbf.php:844 pbf.php:900
+#: pbf.php:1121 pbf.php:1205 pbf.php:1665 pbf.php:1750 pbf.php:1955
+#: pbf.php:2194 pbf.php:2384 pbf.php:2561 pbf.php:2617
+msgid "Spacings"
+msgstr ""
+
+#: fw/sections.php:419
+msgid "Styling Option"
+msgstr ""
+
+#: fw/sections.php:427
+msgid "Colors"
+msgstr ""
+
+#: fw/sections.php:430
+msgid "Theme color"
+msgstr ""
+
+#: fw/sections.php:441
+msgid "Layout"
+msgstr ""
+
+#: fw/sections.php:444
+msgid "Boxed Layout"
+msgstr ""
+
+#: fw/sections.php:450
+msgid "Background Settings"
+msgstr ""
+
+#: fw/sections.php:454
+msgid "Click this link to customize your background settings"
+msgstr ""
+
+#: fw/sections.php:462 fw/sections.php:470
+msgid "Footer"
+msgstr ""
+
+#: fw/sections.php:473
+msgid "Add Footer Image"
+msgstr ""
+
+#: fw/sections.php:479
+msgid "Footer Image Settings"
+msgstr ""
+
+#: fw/sections.php:484
+msgid "Footer Bg Image"
+msgstr ""
+
+#: fw/sections.php:489
+msgid "Footer Img Position x"
+msgstr ""
+
+#: fw/sections.php:494 fw/sections.php:502
+msgid "center"
+msgstr ""
+
+#: fw/sections.php:498
+msgid "Footer Img Position y"
+msgstr ""
+
+#: fw/sections.php:501
+msgid "top"
+msgstr ""
+
+#: fw/sections.php:503
+msgid "bottom"
+msgstr ""
+
+#: fw/sections.php:507
+msgid "Footer Img Repeat"
+msgstr ""
+
+#: fw/sections.php:510
+msgid "no repeat"
+msgstr ""
+
+#: fw/sections.php:511
+msgid "repeat"
+msgstr ""
+
+#: fw/sections.php:512
+msgid "repeat x"
+msgstr ""
+
+#: fw/sections.php:513
+msgid "repeat y"
+msgstr ""
+
+#: fw/sections.php:517
+msgid "Footer Img Size"
+msgstr ""
+
+#: fw/sections.php:521
+msgid "auto"
+msgstr ""
+
+#: fw/sections.php:522
+msgid "cover"
+msgstr ""
+
+#: fw/sections.php:523
+msgid "container"
+msgstr ""
+
+#: fw/sections.php:527
+msgid "Footer Img Attachment"
+msgstr ""
+
+#: fw/sections.php:530
+msgid "fixed"
+msgstr ""
+
+#: fw/sections.php:531
+msgid "scroll"
+msgstr ""
+
+#: fw/sections.php:532
+msgid "local"
+msgstr ""
+
+#: fw/sections.php:538
+msgid "Footer Pattern"
+msgstr ""
+
+#: fw/sections.php:544
+msgid "Footer Background Color"
+msgstr ""
+
+#: fw/sections.php:550
+msgid "Footer font color"
+msgstr ""
+
+#: fw/sections.php:556
+msgid "Footer (Copyrights) Background Color"
+msgstr ""
+
+#: fw/sections.php:562
+msgid "Footer (Copyrights) Font Color"
+msgstr ""
+
+#: fw/sections.php:573
+msgid "Footer Sidebar"
+msgstr ""
+
+#: fw/sections.php:576
+msgid "Footer sidebar"
+msgstr ""
+
+#: fw/sections.php:582
+msgid "Footer Copyrights content"
+msgstr ""
+
+#: fw/sections.php:592
+msgid "Page Layouts"
+msgstr ""
+
+#: fw/sections.php:603 fw/sections.php:625
+msgid "Slider"
+msgstr ""
+
+#: fw/sections.php:607
+msgid "Image Slider"
+msgstr ""
+
+#: fw/sections.php:608
+msgid "Video Slider"
+msgstr ""
+
+#: fw/sections.php:609 fw/sections.php:786
+msgid "Static image"
+msgstr ""
+
+#: fw/sections.php:619
+msgid "Video Slider Setting"
+msgstr ""
+
+#: fw/sections.php:635
+msgid "Set Video height"
+msgstr ""
+
+#: fw/sections.php:639
+msgid "Video height"
+msgstr ""
+
+#: fw/sections.php:645
+msgid "Video type"
+msgstr ""
+
+#: fw/sections.php:648
+msgid "Self-hosted"
+msgstr ""
+
+#: fw/sections.php:649
+msgid "Youtube clip"
+msgstr ""
+
+#: fw/sections.php:650
+msgid "Vimeo clip"
+msgstr ""
+
+#: fw/sections.php:654
+msgid "Add video"
+msgstr ""
+
+#: fw/sections.php:658
+msgid "Youtube video code"
+msgstr ""
+
+#: fw/sections.php:663
+msgid "Vimeo embed url"
+msgstr ""
+
+#: fw/sections.php:668
+msgid "Overlay type"
+msgstr ""
+
+#: fw/sections.php:677
+msgid "Overlay Color"
+msgstr ""
+
+#: fw/sections.php:688
+msgid "Gradient settings"
+msgstr ""
+
+#: fw/sections.php:769
+msgid "Use pattern image"
+msgstr ""
+
+#: fw/sections.php:780
+msgid "Static image Slider Setting"
+msgstr ""
+
+#: fw/sections.php:792
+msgid "Is it hi-dpi?"
+msgstr ""
+
+#: fw/sections.php:800
+msgid "Set Image height"
+msgstr ""
+
+#: fw/sections.php:804
+msgid "Static Image Height"
+msgstr ""
+
+#: fw/sections.php:971
+msgid "Home Page Sidebar Layout"
+msgstr ""
+
+#: fw/sections.php:977 fw/sections.php:1007 fw/sections.php:1046
+msgid "Both"
+msgstr ""
+
+#: fw/sections.php:982 fw/sections.php:1028 fw/sections.php:1051
+#: fw/sections.php:1092
+msgid "Sidebar"
+msgstr ""
+
+#: fw/sections.php:988 fw/sections.php:1034 fw/sections.php:1057
+msgid "Right sidebar"
+msgstr ""
+
+#: fw/sections.php:1001
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: fw/sections.php:1012
+msgid "Page Spacings"
+msgstr ""
+
+#: fw/sections.php:1025 pbf.php:28
+msgid "Blog"
+msgstr ""
+
+#: fw/sections.php:1040
+msgid "Blog Sidebar Layout"
+msgstr ""
+
+#: fw/sections.php:1064
+msgid "Default Blog Layout"
+msgstr ""
+
+#: fw/sections.php:1081
+msgid "Sidebars"
+msgstr ""
+
+#: fw/sections.php:1086
+msgid "Sidebar generator"
+msgstr ""
+
+#: fw/sections.php:1087
+msgid "Add new sidebar"
+msgstr ""
+
+#: fw/sections.php:1102
+msgid "Sticky sidebars"
+msgstr ""
+
+#: fw/sections.php:1113
+msgid "Typography"
+msgstr ""
+
+#: fw/sections.php:1123
+msgid "Menu Font"
+msgstr ""
+
+#: fw/sections.php:1146
+msgid "Header's Font"
+msgstr ""
+
+#: fw/sections.php:1166
+msgid "Body"
+msgstr ""
+
+#: fw/sections.php:1169
+msgid "Body Font"
+msgstr ""
+
+#: fw/sections.php:1190
+msgid "Help & Maintenance"
+msgstr ""
+
+#: fw/sections.php:1197
+msgid "Maintenance"
+msgstr ""
+
+#: fw/sections.php:1200
+msgid "Show Loader"
+msgstr ""
+
+#: fw/sections.php:1206
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: fw/sections.php:1212
+msgid "Show post author"
+msgstr ""
+
+#: fw/sections.php:1218
+msgid "Portfolio slug"
+msgstr ""
+
+#: fw/sections.php:1223
+msgid "Staff Slug"
+msgstr ""
+
+#: fw/sections.php:1228
+msgid "Blog Slug"
+msgstr ""
+
+#: fw/sections.php:1233
+msgid "Theme purchase code"
+msgstr ""
+
+#: fw/sections.php:1243
+msgid "Help"
+msgstr ""
+
+#: fw/sections.php:1253 fw/sections.php:1265
+msgid "Social Networks"
+msgstr ""
+
+#: fw/sections.php:1260
+msgid "Social Options"
+msgstr ""
+
+#: fw/sections.php:1287
+msgid "Social Links Location"
+msgstr ""
+
+#: fw/sections.php:1291
+msgid "Copyrights area"
+msgstr ""
+
+#: fw/sections.php:1292
+msgid "Top and Copyrights"
+msgstr ""
+
+#: fw/sections.php:1380
+msgid "WooCommerce"
+msgstr ""
+
+#: fw/sections.php:1387
+msgid "Woocommerce"
+msgstr ""
+
+#: fw/sections.php:1390
+msgid "Show WooCommerce Cart"
+msgstr ""
+
+#: fw/sections.php:1411
+msgid "Products per page"
+msgstr ""
+
+#: fw/sections.php:1416
+msgid "Related products"
+msgstr ""
+
+#: image.php:126
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:129
+msgid "Next Image"
+msgstr ""
+
+#: pbf.php:11
+msgid "Content Elements"
+msgstr ""
+
+#: pbf.php:14
+msgid "Inner Grid"
+msgstr ""
+
+#: pbf.php:15
+msgid "Tabs"
+msgstr ""
+
+#: pbf.php:16 pbf.php:536
+msgid "Accordion"
+msgstr ""
+
+#: pbf.php:17 pbf.php:994 pbf.php:1061 pbf.php:1823
+msgid "Button"
+msgstr ""
+
+#: pbf.php:18
+msgid "Progress Bar"
+msgstr ""
+
+#: pbf.php:19
+msgid "Message Box"
+msgstr ""
+
+#: pbf.php:20
+msgid "Divider"
+msgstr ""
+
+#: pbf.php:21
+msgid "Call to action"
+msgstr ""
+
+#: pbf.php:22
+msgid "CWS Icon"
+msgstr ""
+
+#: pbf.php:26
+msgid "Modules"
+msgstr ""
+
+#: pbf.php:29
+msgid "Portfolio"
+msgstr ""
+
+#: pbf.php:30 pbf.php:2156
+msgid "Testimonials"
+msgstr ""
+
+#: pbf.php:31
+msgid "Banners"
+msgstr ""
+
+#: pbf.php:32
+msgid "Pricing Table"
+msgstr ""
+
+#: pbf.php:33
+msgid "Our Team"
+msgstr ""
+
+#: pbf.php:34
+msgid "Products Gallery"
+msgstr ""
+
+#: pbf.php:35
+msgid "Pricing Lists"
+msgstr ""
+
+#: pbf.php:36
+msgid "Milestone"
+msgstr ""
+
+#: pbf.php:37
+msgid "Embedd"
+msgstr ""
+
+#: pbf.php:38 pbf.php:2112 pbf.php:2269 pbf.php:2533
+msgid "Carousel"
+msgstr ""
+
+#: pbf.php:39 pbf.php:1235
+msgid "Twitter"
+msgstr ""
+
+#: pbf.php:74 pbf.php:420 pbf.php:849 pbf.php:905 pbf.php:1126 pbf.php:1210
+#: pbf.php:1449 pbf.php:1670 pbf.php:1755 pbf.php:1960 pbf.php:2199
+#: pbf.php:2389 pbf.php:2566 pbf.php:2622
+msgid "Margins (px)"
+msgstr ""
+
+#: pbf.php:84 pbf.php:430 pbf.php:859 pbf.php:915 pbf.php:1136 pbf.php:1220
+#: pbf.php:1459 pbf.php:1680 pbf.php:1765 pbf.php:1970 pbf.php:2209
+#: pbf.php:2399 pbf.php:2576 pbf.php:2632
+msgid "Paddings (px)"
+msgstr ""
+
+#: pbf.php:96 pbf.php:1471 pbf.php:1982 pbf.php:2644
+msgid "Styling"
+msgstr ""
+
+#: pbf.php:101 pbf.php:2649
+msgid "Extra Class"
+msgstr ""
+
+#: pbf.php:102 pbf.php:2650
+msgid "Space separated class names"
+msgstr ""
+
+#: pbf.php:106 pbf.php:470 pbf.php:789 pbf.php:1170 pbf.php:1645 pbf.php:1840
+#: pbf.php:2034 pbf.php:2039 pbf.php:2706
+msgid "Customize"
+msgstr ""
+
+#: pbf.php:111 pbf.php:2711
+msgid "Media type"
+msgstr ""
+
+#: pbf.php:121 pbf.php:502 pbf.php:571 pbf.php:657 pbf.php:1318 pbf.php:1867
+#: pbf.php:2721
+msgid "Image"
+msgstr ""
+
+#: pbf.php:127 pbf.php:2727
+msgid "Background Attachment:"
+msgstr ""
+
+#: pbf.php:136 pbf.php:2736
+msgid "Background Position:"
+msgstr ""
+
+#: pbf.php:152 pbf.php:2752
+msgid "Background Repeat:"
+msgstr ""
+
+#: pbf.php:163 pbf.php:805 pbf.php:1042 pbf.php:1107 pbf.php:1185 pbf.php:1507
+#: pbf.php:1651 pbf.php:2060 pbf.php:2763
+msgid "Background Color"
+msgstr ""
+
+#: pbf.php:209 pbf.php:2809
+msgid "Degrees: -360 to 360"
+msgstr ""
+
+#: pbf.php:217 pbf.php:2817
+msgid "Shape variant"
+msgstr ""
+
+#: pbf.php:250 pbf.php:2850
+#, php-format
+msgid "Two space separated percent values, for example (60%% 55%%)"
+msgstr ""
+
+#: pbf.php:256 pbf.php:2856
+msgid "Apply Parallax"
+msgstr ""
+
+#: pbf.php:262 pbf.php:2862
+msgid "Parallax speed"
+msgstr ""
+
+#: pbf.php:277 pbf.php:2877
+msgid "Pattern"
+msgstr ""
+
+#: pbf.php:282 pbf.php:1872 pbf.php:2882
+msgid "Font color"
+msgstr ""
+
+#: pbf.php:313 pbf.php:587 pbf.php:876 pbf.php:932 pbf.php:1154 pbf.php:1351
+#: pbf.php:1530 pbf.php:1697 pbf.php:1904 pbf.php:2103 pbf.php:2226
+#: pbf.php:2491
+msgid "Basic settings"
+msgstr ""
+
+#: pbf.php:332 pbf.php:2254 pbf.php:2510
+msgid "Items per page"
+msgstr ""
+
+#: pbf.php:337 pbf.php:2259 pbf.php:2523
+msgid "Display as"
+msgstr ""
+
+#: pbf.php:346 pbf.php:1706 pbf.php:2128 pbf.php:2276 pbf.php:2540
+msgid "Autoplay"
+msgstr ""
+
+#: pbf.php:351 pbf.php:394 pbf.php:1711 pbf.php:2133 pbf.php:2281 pbf.php:2373
+#: pbf.php:2545
+msgid "Pagination"
+msgstr ""
+
+#: pbf.php:356 pbf.php:1716 pbf.php:2138 pbf.php:2286 pbf.php:2550
+msgid "Navigation"
+msgstr ""
+
+#: pbf.php:361
+msgid "Custom layout"
+msgstr ""
+
+#: pbf.php:366
+msgid "Post text length"
+msgstr ""
+
+#: pbf.php:372
+msgid "Button Name"
+msgstr ""
+
+#: pbf.php:378
+msgid "Disable Meta Information"
+msgstr ""
+
+#: pbf.php:389 pbf.php:2368 pbf.php:2555
+msgid "Use Pagination"
+msgstr ""
+
+#: pbf.php:452
+msgid "Tabs layout"
+msgstr ""
+
+#: pbf.php:456
+msgid "Horizontal"
+msgstr ""
+
+#: pbf.php:457
+msgid "Vertical"
+msgstr ""
+
+#: pbf.php:465
+msgid "Tab Title"
+msgstr ""
+
+#: pbf.php:484 pbf.php:564 pbf.php:969 pbf.php:1293 pbf.php:1380 pbf.php:1908
+#: pbf.php:2435 pbf.php:2974
+msgid "Icon"
+msgstr ""
+
+#: pbf.php:508 pbf.php:1273 pbf.php:1425
+msgid "Width (px)"
+msgstr ""
+
+#: pbf.php:514 pbf.php:1324 pbf.php:1431
+msgid "Height (px)"
+msgstr ""
+
+#: pbf.php:531
+msgid "Accordion Type"
+msgstr ""
+
+#: pbf.php:535
+msgid "Toggle"
+msgstr ""
+
+#: pbf.php:544
+msgid "Accordion Title"
+msgstr ""
+
+#: pbf.php:557
+msgid "Icon Active"
+msgstr ""
+
+#: pbf.php:577 pbf.php:2004
+msgid "Draw border"
+msgstr ""
+
+#: pbf.php:598
+msgid "Banners Columns"
+msgstr ""
+
+#: pbf.php:599 pbf.php:944
+msgid "Add new column"
+msgstr ""
+
+#: pbf.php:602 pbf.php:947 pbf.php:1545
+msgid "Title Settings"
+msgstr ""
+
+#: pbf.php:606
+msgid "Banner Style:"
+msgstr ""
+
+#: pbf.php:620
+msgid "Winter Spa"
+msgstr ""
+
+#: pbf.php:625
+msgid "Sub-title"
+msgstr ""
+
+#: pbf.php:626
+msgid "2 Night"
+msgstr ""
+
+#: pbf.php:630
+msgid "Sale"
+msgstr ""
+
+#: pbf.php:632
+msgid "-50%"
+msgstr ""
+
+#: pbf.php:635 pbf.php:1051 pbf.php:1079 pbf.php:1576 pbf.php:1805
+#: woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: pbf.php:638
+msgid "$45"
+msgstr ""
+
+#: pbf.php:642 pbf.php:1592
+msgid "Background Type"
+msgstr ""
+
+#: pbf.php:663
+msgid "Opacity (%)"
+msgstr ""
+
+#: pbf.php:669 pbf.php:1628
+msgid "Button text"
+msgstr ""
+
+#: pbf.php:671
+msgid "Best Offer"
+msgstr ""
+
+#: pbf.php:674
+msgid "Button Text Color"
+msgstr ""
+
+#: pbf.php:686 pbf.php:1006 pbf.php:1074 pbf.php:1401 pbf.php:1639 pbf.php:2186
+msgid "Open in new window"
+msgstr ""
+
+#: pbf.php:691
+msgid "Description Img"
+msgstr ""
+
+#: pbf.php:698 pbf.php:893
+msgid "Add Gallery"
+msgstr ""
+
+#: pbf.php:705
+msgid "Add Hover?"
+msgstr ""
+
+#: pbf.php:711 pbf.php:2291
+msgid "Select an effect"
+msgstr ""
+
+#: pbf.php:739 pbf.php:761 pbf.php:770 pbf.php:780 pbf.php:2318 pbf.php:2340
+#: pbf.php:2349 pbf.php:2359
+msgid "Select an direction"
+msgstr ""
+
+#: pbf.php:751 pbf.php:2330
+msgid "Select an Scale"
+msgstr ""
+
+#: pbf.php:800 pbf.php:1569 pbf.php:1601 pbf.php:2469 pbf.php:2960
+msgid "Background color"
+msgstr ""
+
+#: pbf.php:801 pbf.php:813 pbf.php:1192 pbf.php:1513
+msgid "Background Gradient"
+msgstr ""
+
+#: pbf.php:824 pbf.php:1613 pbf.php:2480
+msgid "Background Opacity (%)"
+msgstr ""
+
+#: pbf.php:832
+msgid "Add Item Count"
+msgstr ""
+
+#: pbf.php:885
+msgid "Side Second Image"
+msgstr ""
+
+#: pbf.php:943 pbf.php:1541
+msgid "Pricing Columns"
+msgstr ""
+
+#: pbf.php:954
+msgid "Special Offers"
+msgstr ""
+
+#: pbf.php:957
+msgid "Description"
+msgstr ""
+
+#: pbf.php:964 pbf.php:1375
+msgid "Add Icon?"
+msgstr ""
+
+#: pbf.php:978 pbf.php:1011
+msgid "Discount Price"
+msgstr ""
+
+#: pbf.php:983
+msgid "Add discount price"
+msgstr ""
+
+#: pbf.php:989 pbf.php:1057
+msgid "Type Pricing"
+msgstr ""
+
+#: pbf.php:1024 pbf.php:1091 pbf.php:1482 pbf.php:1987
+msgid "Add Hover"
+msgstr ""
+
+#: pbf.php:1037 pbf.php:1103 pbf.php:1494
+msgid "Alt Style"
+msgstr ""
+
+#: pbf.php:1158
+msgid "Progress Title"
+msgstr ""
+
+#: pbf.php:1163
+msgid "Progress"
+msgstr ""
+
+#: pbf.php:1164
+msgid "In percents (number from 0 to 100)"
+msgstr ""
+
+#: pbf.php:1260
+msgid "CWS Divider"
+msgstr ""
+
+#: pbf.php:1267
+msgid "Long"
+msgstr ""
+
+#: pbf.php:1268
+msgid "Short"
+msgstr ""
+
+#: pbf.php:1269
+msgid "Custom Size"
+msgstr ""
+
+#: pbf.php:1279
+msgid "Add Separate"
+msgstr ""
+
+#: pbf.php:1311 pbf.php:2987
+msgid "Icon Color"
+msgstr ""
+
+#: pbf.php:1329
+msgid "Divider Color"
+msgstr ""
+
+#: pbf.php:1355
+msgid "Button Title"
+msgstr ""
+
+#: pbf.php:1370
+msgid "Font size (px)"
+msgstr ""
+
+#: pbf.php:1386
+msgid "Icon position"
+msgstr ""
+
+#: pbf.php:1389
+msgid "Before text"
+msgstr ""
+
+#: pbf.php:1390
+msgid "After text"
+msgstr ""
+
+#: pbf.php:1405 pbf.php:1939 pbf.php:2118
+msgid "Alignment"
+msgstr ""
+
+#: pbf.php:1437 pbf.php:1845
+msgid "Border Radius (px)"
+msgstr ""
+
+#: pbf.php:1444
+msgid "Spacing"
+msgstr ""
+
+#: pbf.php:1476
+msgid "Title Color"
+msgstr ""
+
+#: pbf.php:1542
+msgid "Add new pricing column"
+msgstr ""
+
+#: pbf.php:1552
+msgid "Standard"
+msgstr ""
+
+#: pbf.php:1563
+msgid "Active Pricing Table"
+msgstr ""
+
+#: pbf.php:1578
+msgid "$ 12.99"
+msgstr ""
+
+#: pbf.php:1581
+msgid "Price Color"
+msgstr ""
+
+#: pbf.php:1588
+msgid "Pricing details"
+msgstr ""
+
+#: pbf.php:1589
+msgid "monthly"
+msgstr ""
+
+#: pbf.php:1607 pbf.php:2475
+msgid "Background Image"
+msgstr ""
+
+#: pbf.php:1630
+msgid "Read more"
+msgstr ""
+
+#: pbf.php:1633
+msgid "Text Color"
+msgstr ""
+
+#: pbf.php:1701
+msgid "Carousel Title"
+msgstr ""
+
+#: pbf.php:1731
+msgid "Controls Color"
+msgstr ""
+
+#: pbf.php:1788
+msgid "CALLOUT"
+msgstr ""
+
+#: pbf.php:1791
+msgid "Sub Title"
+msgstr ""
+
+#: pbf.php:1793
+msgid "You are Happy, Beautiful and Healthy!"
+msgstr ""
+
+#: pbf.php:1796
+msgid "Display"
+msgstr ""
+
+#: pbf.php:1807
+msgid "-30%"
+msgstr ""
+
+#: pbf.php:1811
+msgid "Banner Title"
+msgstr ""
+
+#: pbf.php:1817
+msgid "Banner Sub Title"
+msgstr ""
+
+#: pbf.php:1828
+msgid "Button URL"
+msgstr ""
+
+#: pbf.php:1834
+msgid "Banner URL"
+msgstr ""
+
+#: pbf.php:1879
+msgid "Button text color"
+msgstr ""
+
+#: pbf.php:1927
+msgid "Icon Url"
+msgstr ""
+
+#: pbf.php:1949
+msgid "Display Inline"
+msgstr ""
+
+#: pbf.php:1992
+msgid "Hover Color"
+msgstr ""
+
+#: pbf.php:1999
+msgid "Simplify style"
+msgstr ""
+
+#: pbf.php:2010 pbf.php:2682
+msgid "Border width"
+msgstr ""
+
+#: pbf.php:2017 pbf.php:2689
+msgid "Border style:"
+msgstr ""
+
+#: pbf.php:2027 pbf.php:2463
+msgid "Border color"
+msgstr ""
+
+#: pbf.php:2072
+msgid "Embed audio/video file"
+msgstr ""
+
+#: pbf.php:2081
+msgid "Embed url"
+msgstr ""
+
+#: pbf.php:2087
+msgid "Max width in pixels"
+msgstr ""
+
+#: pbf.php:2093
+msgid "Max height in pixels"
+msgstr ""
+
+#: pbf.php:2157
+msgid "Add new item"
+msgstr ""
+
+#: pbf.php:2171
+msgid "Draw image border"
+msgstr ""
+
+#: pbf.php:2235 pbf.php:2422
+msgid "Mode"
+msgstr ""
+
+#: pbf.php:2414
+msgid "CWS Milestone"
+msgstr ""
+
+#: pbf.php:2430
+msgid "Hide Icon"
+msgstr ""
+
+#: pbf.php:2441
+msgid "Number"
+msgstr ""
+
+#: pbf.php:2446
+msgid "Speed"
+msgstr ""
+
+#: pbf.php:2447
+msgid "Should be integer"
+msgstr ""
+
+#: pbf.php:2458
+msgid "Hide border"
+msgstr ""
+
+#: pbf.php:2515
+msgid "Order By"
+msgstr ""
+
+#: pbf.php:2596
+msgid "Row type"
+msgstr ""
+
+#: pbf.php:2606
+msgid "Vertical align"
+msgstr ""
+
+#: pbf.php:2654
+msgid "Border:"
+msgstr ""
+
+#: pbf.php:2668
+msgid "Triangle width"
+msgstr ""
+
+#: pbf.php:2675
+msgid "Triangle Color"
+msgstr ""
+
+#: pbf.php:2699
+msgid "Border Color"
+msgstr ""
+
+#: pbf.php:2914
+msgid "CWS Message Box"
+msgstr ""
+
+#: pbf.php:2920
+msgid "Informational"
+msgstr ""
+
+#: pbf.php:2921
+msgid "Warning"
+msgstr ""
+
+#: pbf.php:2922
+msgid "Success"
+msgstr ""
+
+#: pbf.php:2923
+msgid "Error"
+msgstr ""
+
+#: pbf.php:2937
+msgid "Add close button"
+msgstr ""
+
+#: pbf.php:2941
+msgid "Customize colors"
+msgstr ""
+
+#: pbf.php:2946
+msgid "Title & close icon color"
+msgstr ""
+
+#: pbf.php:2953
+msgid "Text color"
+msgstr ""
+
+#: pbf.php:2967
+msgid "Border Background"
+msgstr ""
+
+#: pbf.php:2980
+msgid "Icon Background"
+msgstr ""
+
+#: search.php:59
+msgid "Empty search string"
+msgstr ""
+
+#: search.php:59
+msgid "Please, enter some characters to search field"
+msgstr ""
+
+#: search.php:172
+msgid "No search Results"
+msgstr ""
+
+#: search.php:172
+msgid "There are no posts matching your query"
+msgstr ""
+
+#: single-cws_portfolio.php:136
+msgid "Prev"
+msgstr ""
+
+#: single-cws_portfolio.php:139
+msgid "Next"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:29
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:37
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:21
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/form-pay.php:29
+#: woocommerce/checkout/review-order.php:26
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:106
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:106 woocommerce/cart/mini-cart.php:43
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:65
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:73 woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:78
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:27
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:31
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:52
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:63
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:30
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:28
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:30
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:31
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:54
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/terms.php:17
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:27
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/checkout/thankyou.php:69
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Payment Method:"
+msgstr ""
